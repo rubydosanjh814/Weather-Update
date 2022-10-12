@@ -1,0 +1,22 @@
+.weather-container {
+  background: #ccc;
+  text-align: center;
+}
+.weather,
+.city-name {
+  font-size: 28px;
+  margin: 0;
+}
+.temp .degree {
+  font-size: 60px;
+  font-weight: bold;
+}
+body section.vh-100 {
+  text-align: center;
+}
+.feels_like,
+.temp_max,
+.temp_min {
+  font-weight: 400;
+  font-size: 19px;
+}
